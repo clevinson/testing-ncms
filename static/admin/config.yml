@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: clevinson/testing-ncms
 
 media_folder: static/assets
 public_folder: assets
